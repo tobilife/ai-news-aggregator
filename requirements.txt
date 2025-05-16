@@ -1,0 +1,12 @@
+# ai_news_aggregator/requirements.txt
+feedparser==6.0.10
+requests==2.31.0
+beautifulsoup4==4.12.2
+aiohttp==3.9.1
+asyncio==3.4.3
+pytz==2023.3
+python-dateutil==2.8.2
+lxml==4.9.3
+chardet==5.2.0
+aiodns==3.1.1
+cchardet==2.1.7
